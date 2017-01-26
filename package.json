@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cz-conventional-changelog": "^1.2.0",
-    "husky": "^0.13.1",
-    "validate-commit-msg": "^2.10.1"
+    "cz-conventional-changelog": "1.2.0",
+    "husky": "0.13.1",
+    "validate-commit-msg": "2.10.1"
   },
   "config": {
     "commitizen": {
