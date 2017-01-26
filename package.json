@@ -1,0 +1,17 @@
+{
+  "name": "test-commit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commitmsg": "validate-commit-msg"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "husky": "^0.13.1",
+    "validate-commit-msg": "^2.10.1"
+  }
+}
