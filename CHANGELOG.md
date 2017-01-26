@@ -1,4 +1,19 @@
 <a name="0.0.1"></a>
+## [0.0.1](https://github.com/jbavari/proper-commit-messages/compare/0.0.2...v0.0.1) (2017-01-26)
+
+
+
+<a name="0.0.2"></a>
+## [0.0.2](https://github.com/jbavari/proper-commit-messages/compare/0.0.1...0.0.2) (2017-01-26)
+
+
+### Features
+
+* **slam:** Now vision is 20x faster ([891e312](https://github.com/jbavari/proper-commit-messages/commit/891e312)), closes [#2](https://github.com/jbavari/proper-commit-messages/issues/2)
+
+
+
+<a name="0.0.1"></a>
 ## [0.0.1](https://github.com/jbavari/proper-commit-messages/compare/ca50e9b...0.0.1) (2017-01-26)
 
 
